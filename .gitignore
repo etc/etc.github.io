@@ -8,6 +8,8 @@ ehthumbs.db
 Thumbs.db
 
 # Compilation
+.jekyll-metadata
+.jekyll-cache/
 .sass-cache/
 _site/
 
