@@ -13,7 +13,7 @@ domain: etc.github.io
 url: https://etc.github.io  
 
 # Site config
-baseurl: ""
+baseurl: "penumbra"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
