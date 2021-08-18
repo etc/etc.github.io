@@ -218,9 +218,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 217)
   jekyll (~> 3.9.0)
-  jekyll-feed
-  jekyll-seo-tag
-  jekyll-sitemap
 
 BUNDLED WITH
    2.2.26

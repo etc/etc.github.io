@@ -18,9 +18,3 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
-  
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
