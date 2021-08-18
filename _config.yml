@@ -6,6 +6,12 @@ keywords: "Shanghai, Film, Events"
 email: "penumbra.events@gmail.com"
 instagram: "https://instagram.com/penumbra.events"
 
+# if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+domain: etc.github.io
+
+# the base hostname and protocol for your site, e.g. http://example.com
+url: https://etc.github.io  
+
 # Site config
 baseurl: ""
 highlighter: rouge
