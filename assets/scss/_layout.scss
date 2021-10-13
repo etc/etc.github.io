@@ -171,6 +171,10 @@
 	article {
 		margin-bottom: 3rem;
 
+    p {
+      margin-bottom: 20px; /* between paragraphs */
+      }
+
 		@media (min-width: $breakpoint-medium) {
 			float: right;
 			right: 0;
