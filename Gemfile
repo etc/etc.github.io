@@ -10,3 +10,5 @@ gem "jekyll", "~> 3.9.0"
 
 # See https://pages.github.com/versions/ for version to use
 gem "github-pages", "~> 217", group: :jekyll_plugins
+
+gem "webrick", "~> 1.7"
