@@ -17,3 +17,6 @@ _site/
 *.log
 *.sql
 *.sqlite
+
+# Images are stored on AWS
+assets/images
