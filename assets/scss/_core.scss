@@ -21,6 +21,10 @@ h1,
 	margin: 0;
 }
 
+h1.logo {
+	font-size: 3.2rem;
+}
+
 h2,
 .h2 {	
 	color: $color-silver-chalice;
@@ -49,7 +53,7 @@ p {
 }
 
 a {
-	color: $color-black;
+	color: $color-penumbra;
 	text-decoration: none;
 }
 
